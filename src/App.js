@@ -9,7 +9,7 @@ class App extends Component {
     this.state = {
       todos: [
         {id: 1, name: 'Learn JSX', isComplete: true},
-        {id: 2, name: 'Build and Awesome App', isComplete: false},
+        {id: 2, name: 'Build an Awesome App', isComplete: false},
         {id: 3, name: 'Ship it!', isComplete: false}
       ],
       currentTodo: ''
